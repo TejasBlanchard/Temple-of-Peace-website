@@ -1,0 +1,24 @@
+ #meditateimg { 
+  margin: 0 10px;
+    max-width: 150px; 
+    max-height: 150px; 
+    width: auto; 
+    height: auto; 
+    border-radius: 6px; }
+
+    .card {
+    	background: #DBFCFF;
+    	padding:30px;
+    	display:flex;
+    	align-items: center; 
+    	justify-content: space-between;
+    	box-shadow: 0px 10px 30px rgba(0,0,0,0.4);
+    	border-radius: 6px;
+        margin: 30px 0px;
+
+    }
+
+    .cards { 
+    display: flex; 
+flex-wrap: wrap;
+}

@@ -1,0 +1,47 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Notable&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
+
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+@import url("components/avatar.css");
+@import url("components/button.css");
+
+
+
+
+body { 
+text-align: center; 
+background color:#FFEAEE;
+font-family: "Didact Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;}
+
+h1 {  
+font-family: "Notable", sans-serif; 
+font-weight: 400;
+font-style: normal;}
+
+h2, h3 { 
+	 font-family: "Roboto Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: lighter;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "XOPQ" 96,
+    "XTRA" 468,
+    "YOPQ" 79,
+    "YTAS" 750,
+    "YTDE" -203,
+    "YTFI" 738,
+    "YTLC" 514,
+    "YTUC" 712;
+    margin-bottom: 30px;
+
+ } 
+
+

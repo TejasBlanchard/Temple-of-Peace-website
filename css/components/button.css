@@ -1,0 +1,35 @@
+.contact-button {
+    text-decoration: none;
+    color: #DDC3D0;
+    background-color: #0A100D;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 1s ease;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.button-container {
+    text-align: center; 
+    margin-bottom: 50px;
+}
+.card-button {
+    text-decoration: none;
+    color: #DDC3D0;
+    background-color: #0A100D;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 1s ease;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.button-container {
+    text-align: center; 
+}
+
+a:hover {
+    background-color: #D90368;
+    color: #0A100D; }
